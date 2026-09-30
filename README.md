@@ -1,69 +1,169 @@
-## Hi there 👋
 # Hi, I'm Karan Mahadik 👋
 
-### Embedded Systems | MATLAB | Arduino | Python | EIT
+### Embedded Systems | C/C++ | Python | MATLAB | DSP | Test Automation
 
-## About Me
+I'm an M.Sc. Embedded Systems student at Chemnitz University of Technology with a background in Electronics Engineering and around 2.5 years of professional software experience.
 
-I am interested in embedded systems, sensor systems, data acquisition, MATLAB-based interfaces, Arduino development, and wireless communication.
+My work sits at the intersection of embedded systems, software development, test automation, and hardware-software integration. I have experience with C/C++, Python, MATLAB, Linux/Unix, Git, debugging, automation, and embedded communication interfaces such as UART, SPI, I²C, Bluetooth, and serial communication.
 
-I have worked on Electrical Impedance Tomography (EIT) gesture data acquisition using MATLAB, Arduino Uno, USB serial communication, and HC-05 Bluetooth communication.
+---
 
-## Featured Project
+## 👨‍💻 About Me
 
-### EIT Gesture Data Collection
+I enjoy building and validating embedded systems, automating test workflows, and connecting hardware with software in a reliable and repeatable way.
 
-MATLAB-Arduino system for EIT-based gesture data acquisition using USB and HC-05 Bluetooth communication.
+My academic and project experience includes:
 
-Technologies:
-- MATLAB
-- Arduino
-- Python
-- HC-05 Bluetooth
-- EIT
-- CSV Data Acquisition
+- Embedded systems and real-time concepts
+- C/C++ and Python development
+- Digital Signal Processing
+- Computer Architecture
+- Hardware-Software Co-Design
+- STM32 / FreeRTOS simulation
+- MATLAB-based measurement systems
+- Python test automation and fault injection
+- Raspberry Pi embedded prototyping
+- Serial, UART, SPI, I²C, and Bluetooth communication
+- Measurement analysis and validation workflows
 
-Project Repository:
+I'm also interested in compiler toolchains, MLIR / LLVM, embedded DSP, and Agentic AI for engineering workflows.
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 EIT Gesture Data Collection
+
+A MATLAB-Arduino based Electrical Impedance Tomography gesture data acquisition system supporting both USB and HC-05 Bluetooth communication.
+
+The system includes:
+
+- MATLAB GUI for gesture display and data acquisition
+- Arduino-based EIT measurement control
+- Python COM-port detection
+- Real-time measurement visualization
+- Multiple EIT scan configurations
+- Structured CSV data storage
+- USB and wireless workflows
+
+**Technologies:** MATLAB, Arduino, Python, Bluetooth, Serial Communication, EIT
+
+**Repository:**  
 https://github.com/karanm2504/EIT-Gesture-Data-Collection
 
-## Tech Stack
+---
+
+
+### 🔹 STM32 / FreeRTOS Sensor Hub Simulation
+
+Designed a simulated STM32 / FreeRTOS sensor hub with task-based sensor acquisition and processing.
+
+The project includes UART, SPI, and I²C communication, timing and fault-case analysis, and a Python host CLI for configuration, logging, and measurement analysis.
+
+**Technologies:** C/C++, STM32, FreeRTOS, Python, UART, SPI, I²C
+
+---
+
+### 🔹 Python Embedded Test Automation & Fault-Injection Framework
+
+Built a simulated embedded controller and sensor environment with controlled fault scenarios such as threshold violations, invalid sensor values, and communication timeouts.
+
+Developed Python-based automation for measurement validation, communication-state monitoring, logging, visualization, debugging, and structured PASS/FAIL result analysis.
+
+**Technologies:** Python, Test Automation, Fault Injection, Validation, Git
+
+
+
+---
+
+### 🔹 Raspberry Pi 3B+ Embedded Monitoring System
+
+Built a Linux-based Raspberry Pi 3B+ prototype integrating environmental sensors, a Pi Camera, and actuators with automated control, remote monitoring, measurement processing, and system-state analysis.
+
+**Technologies:** Raspberry Pi, Python, Linux, Sensors, Camera, Actuators
+
+---
+
+## 🛠️ Technical Skills
 
 ### Programming
-- MATLAB
+- C / C++
 - Python
-- C / Arduino
+- MATLAB
+- SQL
 
 ### Embedded Systems
-- Arduino Uno
-- Sensor Interfacing
-- Serial Communication
-- Bluetooth Communication
-- Data Acquisition
+- STM32 / FreeRTOS
+- Raspberry Pi 3B+
+- Arduino
+- Sensors & Actuators
+- Hardware-Software Integration
+- Embedded System Debugging
 
-### Tools
-- MATLAB
-- Arduino IDE
+### Communication Interfaces
+- UART
+- SPI
+- I²C
+- Bluetooth
+- Serial Communication
+
+### Systems & Tools
+- Linux / Unix
+- Shell
 - Git
 - GitHub
+- Jira
+- KiCad
 
-## Connect With Me
+### Test & Automation
+- Python Scripting
+- Test Automation
+- System Integration
+- Root-Cause Analysis
+- Debugging
 
-LinkedIn:
+---
+
+## 💼 Professional Background
+
+Previously worked as a **Consultant I at G2 Risk Solutions** for **Bank of America**.
+
+My work included Python/PySpark development, Informatica workflows, Oracle SQL, Linux/Unix environments, automated data processing, system integration, end-to-end testing, debugging, root-cause analysis, Git-based version control, and defect/test documentation in Jira.
+
+---
+
+## 🎓 Education
+
+**M.Sc. Embedded Systems**  
+Chemnitz University of Technology, Germany
+
+Focus areas include Embedded Projects, Hardware-Software Co-Design, Computer Architecture, Sensors, Digital Signal Processing, Computer Vision, and Digital Design.
+
+**B.E. Electronics Engineering**  
+University of Mumbai, India
+
+---
+
+## 🔬 Current Interests
+
+- Embedded Systems
+- Embedded DSP
+- Compiler Toolchains
+- MLIR / LLVM
+- Hardware-Software Co-Design
+- Test Automation
+- Measurement Systems
+- Agentic AI
+- Engineering Automation
+- Machine Learning Deployment
+
+---
+
+## 📫 Connect With Me
+
+**LinkedIn:**  
 https://www.linkedin.com/in/karanmahadik2504
 
-GitHub:
+**GitHub:**  
 https://github.com/karanm2504
-<!--
-**karanm2504/karanm2504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
