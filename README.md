@@ -49,7 +49,7 @@ https://github.com/karanm2504/EIT-Gesture-Data-Collection
 ## Connect With Me
 
 LinkedIn:
-https://www.linkedin.com/in/karanmahadik250
+https://www.linkedin.com/in/karanmahadik2504
 
 GitHub:
 https://github.com/karanm2504
