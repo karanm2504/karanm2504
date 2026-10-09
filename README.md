@@ -48,8 +48,7 @@ The system includes:
 
 **Technologies:** MATLAB, Arduino, Python, Bluetooth, Serial Communication, EIT
 
-**Repository:**  
-https://github.com/karanm2504/EIT-Gesture-Data-Collection
+**Repository:**  https://github.com/karanm2504/EIT-Gesture-Data-Collection
 
 ---
 
