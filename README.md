@@ -62,6 +62,9 @@ The project includes UART, SPI, and I²C communication, timing and fault-case an
 
 **Technologies:** C/C++, STM32, FreeRTOS, Python, UART, SPI, I²C
 
+**Repository:** 
+https://github.com/karanm2504/stm32-baremetal-controller
+
 ---
 
 ### 🔹 Python Embedded Test Automation & Fault-Injection Framework
@@ -71,6 +74,9 @@ Built a simulated embedded controller and sensor environment with controlled fau
 Developed Python-based automation for measurement validation, communication-state monitoring, logging, visualization, debugging, and structured PASS/FAIL result analysis.
 
 **Technologies:** Python, Test Automation, Fault Injection, Validation, Git
+
+**Repository:** 
+https://github.com/karanm2504/Embedded-sensor-Test-automation
 
 
 
